@@ -1,0 +1,37 @@
+
+NGUỒN TÀI LIỆU THAM KHẢO
+
+- Tài liệu 1
+Type of Source: Book
+Author: Cecilia Ka Yuk Chan; Tom Colloton
+Title: Generative AI in Higher Education
+Journal Name: Taylor & Francis
+Year: 2024
+Pages: 50-60
+
+- Tài liệu 2
+Type of Source: Journal article
+Author: Hanaa Albanna; Ali Abdallah Alalwan; Mostafa Al-Emran
+Title: An integrated model for using social media applications in non-profit organizations
+Journal Name: International Journal of Information Management
+Year: 2022
+Pages: 1-11
+
+- Tài liệu 3
+Type of Source: Journal article
+Author: Vanja Stankovic
+Title: Design of a new performativity: AI-generated actors in the digital multimedia environment
+Journal Name: ResearchGate
+Year: 2025
+Pages: 1-12
+
+- Tài liệu 4
+Type of Source: Document from Web site/Web site
+Corporate Author: Quốc hội
+Name of Web Page: Luật 71/2025/QH15 Luật Công nghiệp công nghệ số - Cơ sở dữ liệu Quốc gia Văn bản quy phạm pháp luật
+Year: 2025
+Year Accessed: 2025
+Month Accessed: September
+Day Accessed: 9
+URL: https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179989
+
